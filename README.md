@@ -127,6 +127,6 @@ VALUES (1, 1),
 - Folders can contain multiple emails (folders.id -> email_folders.folder_id)
 - An email can be in multiple folders (emails.id -> email_folders.email_id)
 
-License
+## License
 
 By contributing to this project, you agree that your contributions will be licensed under the project's [LICENSE](./LICENSE).
